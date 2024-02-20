@@ -10,10 +10,6 @@ Welcome to the **NBA Datasets** repository! This project aims to provide compreh
 
 ### Schedule
 
-League,Season,Date,Start (ET),Visitor,Visitor PTS,Visitor Record,Home,Home PTS,Home Record,Game Reference,OT,Attendance,Arena,Playoffs,Series
-NBA,2022-2023,2023-06-12,8:30p,MIA,89,1-4,DEN,94,4-1,202306120DEN,,"19,537",Ball Arena,True,Finals
-
-
 |League|Season|Date|Start (ET)|Visitor|Visitor PTS|Visitor Record|Home|Home PTS|Home Record|Game Reference|OT|Attendance|Arena|Playoffs|Series|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |NBA|2022-2023|2023-06-12|8:30p|MIA|89|1-4|DEN|94|4-1|202306120DEN||"19,537"|Ball Arena|True|Finals|
