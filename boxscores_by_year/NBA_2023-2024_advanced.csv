@@ -1,4 +1,323 @@
 Player Name,Player Reference,Game Reference,Team,Period,Starter,MP,TS%,eFG%,3PAr,FTr,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,BPM
+Devin Vassell,vassede01,202402220SAC,SAS,game,True,36:42,.792,.806,.222,.278,0.0,3.4,1.6,27.7,0.0,0.0,4.7,24.5,152,134,7.1
+Jeremy Sochan,sochaje01,202402220SAC,SAS,game,True,35:57,.504,.500,.067,.133,2.9,24.6,12.7,6.6,2.7,0.0,11.2,21.1,95,125,-7.5
+Victor Wembanyama,wembavi01,202402220SAC,SAS,game,True,31:17,.426,.405,.286,.143,16.7,32.3,23.7,16.3,7.6,12.8,4.3,31.7,103,102,5.8
+Tre Jones,jonestr01,202402220SAC,SAS,game,True,29:47,.625,.625,.125,.000,3.5,4.2,3.8,34.6,0.0,0.0,20.0,14.3,127,134,-4.2
+Julian Champagnie,champju02,202402220SAC,SAS,game,True,16:38,.833,.833,.500,.000,12.5,22.8,17.2,15.0,0.0,0.0,0.0,15.3,171,131,6.0
+Keldon Johnson,johnske04,202402220SAC,SAS,game,False,31:22,.699,.667,.333,.167,0.0,16.1,7.3,11.7,1.5,0.0,0.0,17.4,145,129,0.1
+Blake Wesley,weslebl01,202402220SAC,SAS,game,False,16:55,.410,.250,.500,.500,6.2,0.0,3.4,6.0,0.0,0.0,17.0,14.8,91,134,-17.1
+Zach Collins,colliza01,202402220SAC,SAS,game,False,16:43,.307,.250,.000,.500,0.0,22.7,10.3,24.4,2.9,0.0,0.0,12.4,102,125,-3.6
+Malaki Branham,branhma01,202402220SAC,SAS,game,False,13:21,.417,.417,.333,.000,7.8,18.9,12.8,16.8,0.0,0.0,14.3,22.3,92,132,-10.0
+Cedi Osman,osmande01,202402220SAC,SAS,game,False,11:18,.625,.625,.500,.000,0.0,22.4,10.1,30.7,0.0,0.0,0.0,15.0,145,131,2.1
+Devonte' Graham,grahade01,202402220SAC,SAS,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Sandro Mamukelashvili,mamuksa01,202402220SAC,SAS,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+De'Aaron Fox,foxde01,202402220SAC,SAC,game,True,37:21,.709,.722,.333,.222,0.0,14.0,7.6,31.6,2.6,1.8,13.2,26.8,132,119,6.6
+Keegan Murray,murrake02,202402220SAC,SAC,game,True,34:39,.735,.700,.400,.200,3.6,9.0,6.6,0.0,0.0,0.0,15.5,16.3,122,127,-6.9
+Domantas Sabonis,sabondo01,202402220SAC,SAC,game,True,33:02,.733,.733,.000,.000,11.5,25.3,19.0,44.4,0.0,2.0,11.8,22.6,151,121,12.6
+Kevin Huerter,huertke01,202402220SAC,SAC,game,True,31:25,.750,.750,.571,.000,0.0,13.3,7.3,19.2,0.0,0.0,6.7,21.0,143,126,5.1
+Harrison Barnes,barneha02,202402220SAC,SAC,game,True,17:14,.425,.400,.200,.400,7.3,18.2,13.3,0.0,2.8,0.0,0.0,15.0,99,118,-9.6
+Malik Monk,monkma01,202402220SAC,SAC,game,False,26:45,.626,.567,.333,.267,0.0,11.7,6.4,9.5,3.6,4.9,10.7,30.8,115,114,3.3
+Chris Duarte,duartch01,202402220SAC,SAC,game,False,19:57,1.000,1.000,1.000,.000,6.3,15.7,11.5,5.1,0.0,0.0,0.0,6.6,196,125,0.6
+Trey Lyles,lylestr01,202402220SAC,SAC,game,False,15:01,.291,.250,.833,.333,0.0,20.8,11.4,0.0,0.0,0.0,0.0,20.1,63,124,-16.8
+Alex Len,lenal01,202402220SAC,SAC,game,False,13:56,.400,.400,.000,.000,9.1,22.5,16.4,0.0,0.0,9.4,0.0,15.8,95,115,-8.2
+Davion Mitchell,mitchda01,202402220SAC,SAC,game,False,10:39,.000,.000,.500,.000,0.0,0.0,0.0,8.7,0.0,0.0,0.0,8.3,36,129,-17.1
+Kessler Edwards,edwarke02,202402220SAC,SAC,game,False,0:01,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,129,-8.7
+Keon Ellis,elliske01,202402220SAC,SAC,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Mason Jones,jonesma05,202402220SAC,SAC,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+JaVale McGee,mcgeeja01,202402220SAC,SAC,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+D'Angelo Russell,russeda01,202402220GSW,LAL,game,True,33:40,.537,.500,.600,.267,0.0,15.5,8.0,37.3,2.9,0.0,15.2,26.0,109,126,-0.3
+Anthony Davis,davisan02,202402220GSW,LAL,game,True,32:31,.624,.579,.105,.316,10.3,38.5,24.9,5.5,0.0,6.7,12.2,33.6,114,120,0.3
+Rui Hachimura,hachiru01,202402220GSW,LAL,game,True,32:00,.450,.438,.500,.250,3.5,9.8,6.7,3.9,1.5,4.5,10.1,13.7,92,129,-5.9
+Taurean Prince,princta02,202402220GSW,LAL,game,True,31:53,.600,.600,.700,.000,0.0,9.8,5.1,8.5,1.5,0.0,9.1,15.3,111,132,-3.2
+Austin Reaves,reaveau01,202402220GSW,LAL,game,True,27:15,.727,.727,.455,.000,0.0,7.7,4.0,23.0,0.0,2.7,15.4,21.2,123,134,0.4
+Max Christie,chrisma02,202402220GSW,LAL,game,False,28:46,.507,.438,.625,.250,7.8,3.6,5.6,26.4,1.7,2.5,0.0,13.7,137,132,4.2
+Jaxson Hayes,hayesja02,202402220GSW,LAL,game,False,18:22,.451,.500,.000,.667,24.3,17.0,20.6,7.4,0.0,4.0,0.0,18.7,118,130,-5.1
+Spencer Dinwiddie,dinwisp01,202402220GSW,LAL,game,False,17:57,.388,.333,.167,.167,0.0,0.0,0.0,21.3,0.0,4.1,0.0,15.9,104,136,-11.4
+Jalen Hood-Schifino,hoodsja01,202402220GSW,LAL,game,False,5:52,.515,.500,.667,.667,0.0,17.8,9.2,0.0,0.0,0.0,20.5,36.9,79,132,-16.4
+Skylar Mays,mayssk01,202402220GSW,LAL,game,False,5:52,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.1,200,139,0.2
+Dylan Windler,windldy01,202402220GSW,LAL,game,False,5:52,,,,,0.0,17.8,9.2,19.0,0.0,0.0,,0.0,223,132,-4.3
+Colin Castleton,castlco01,202402220GSW,LAL,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Stephen Curry,curryst01,202402220GSW,GSW,game,True,31:47,.643,.625,.542,.083,0.0,3.5,1.7,37.9,4.6,0.0,3.9,32.0,141,108,19.4
+Brandin Podziemski,podzibr01,202402220GSW,GSW,game,True,27:50,.388,.333,.500,.167,11.2,24.1,17.4,3.8,0.0,0.0,13.4,21.0,90,114,-10.3
+Andrew Wiggins,wiggian01,202402220GSW,GSW,game,True,27:41,.672,.643,.357,.143,7.5,4.0,5.8,9.6,1.8,3.3,6.3,22.5,138,112,6.2
+Jonathan Kuminga,kuminjo01,202402220GSW,GSW,game,True,24:11,.466,.458,.250,.167,4.3,9.2,6.7,14.9,2.0,0.0,0.0,20.9,117,113,-1.6
+Draymond Green,greendr01,202402220GSW,GSW,game,True,21:21,.800,.800,.400,.000,0.0,36.6,17.7,26.0,0.0,4.2,16.7,11.0,151,108,9.0
+Klay Thompson,thompkl01,202402220GSW,GSW,game,False,28:14,.167,.167,.444,.000,0.0,15.8,7.6,17.6,1.7,0.0,0.0,12.5,77,112,-8.5
+Moses Moody,moodymo01,202402220GSW,GSW,game,False,19:31,.333,.333,.333,.000,5.3,28.6,16.6,5.5,0.0,0.0,0.0,12.1,95,112,-9.7
+Dario Šarić,saricda01,202402220GSW,GSW,game,False,15:03,.333,.333,.500,.000,13.9,14.8,14.3,29.2,0.0,0.0,14.3,18.3,103,116,-4.1
+Trayce Jackson-Davis,jackstr02,202402220GSW,GSW,game,False,14:50,.814,.800,.000,.100,28.1,7.5,18.2,13.4,0.0,12.2,0.0,27.7,175,109,19.8
+Lester Quinones,quinole01,202402220GSW,GSW,game,False,13:49,.554,.400,.200,.600,7.6,0.0,3.9,8.1,0.0,0.0,24.0,23.7,100,118,-13.9
+Kevon Looney,looneke01,202402220GSW,GSW,game,False,8:05,1.000,1.000,.000,.000,12.9,55.2,33.4,13.5,0.0,0.0,50.0,9.7,116,107,1.8
+Jerome Robinson,robinje01,202402220GSW,GSW,game,False,3:49,1.042,1.250,.500,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.6,185,118,25.7
+Gui Santos,santogu01,202402220GSW,GSW,game,False,3:49,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.3,300,120,18.1
+Miles Bridges,bridgmi02,202402220UTA,CHO,game,True,40:30,.597,.600,.300,.200,7.0,29.0,17.3,16.8,0.0,0.0,4.4,24.4,125,109,1.9
+Brandon Miller,millebr02,202402220UTA,CHO,game,True,38:09,.487,.469,.563,.063,0.0,8.4,3.9,19.4,5.1,0.0,5.7,19.8,107,106,0.3
+Cody Martin,martico01,202402220UTA,CHO,game,True,30:55,.357,.357,.429,.000,0.0,17.3,8.1,8.4,4.8,3.2,30.0,14.0,60,101,-7.5
+Tre Mann,manntr01,202402220UTA,CHO,game,True,29:39,.666,.625,.375,.500,3.2,18.0,10.1,19.3,3.3,0.0,9.3,15.7,137,106,1.4
+Nick Richards,richani01,202402220UTA,CHO,game,True,28:18,.592,.600,.000,.800,20.0,15.1,17.7,14.6,1.7,7.1,0.0,10.4,162,108,3.0
+Grant Williams,willigr01,202402220UTA,CHO,game,False,27:12,.676,.625,.688,.250,0.0,0.0,0.0,12.8,1.8,0.0,0.0,28.3,138,117,8.3
+Vasilije Micić,micicva01,202402220UTA,CHO,game,False,19:42,.186,.111,.333,.444,4.8,5.4,5.1,51.9,0.0,0.0,15.7,28.1,77,118,-18.4
+Seth Curry,curryse01,202402220UTA,CHO,game,False,19:08,.592,.563,.500,.125,4.9,5.6,5.2,0.0,0.0,0.0,10.6,21.4,106,118,-6.6
+Dāvis Bertāns,bertada01,202402220UTA,CHO,game,False,6:27,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.2,300,120,32.9
+Marques Bolden,boldema01,202402220UTA,CHO,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Bryce McGowens,mcgowbr01,202402220UTA,CHO,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+JT Thor,thorjt01,202402220UTA,CHO,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Lauri Markkanen,markkla01,202402220UTA,UTA,game,True,36:41,.571,.429,.643,.714,2.9,20.5,12.3,25.8,0.0,0.0,9.8,22.6,126,118,4.3
+Keyonte George,georgke01,202402220UTA,UTA,game,True,31:07,.571,.571,.571,.000,0.0,9.1,4.8,29.4,0.0,0.0,26.3,24.9,91,122,-5.4
+John Collins,collijo01,202402220UTA,UTA,game,True,30:45,.450,.450,.200,.000,20.8,36.7,29.3,10.2,0.0,3.1,16.7,15.9,103,110,-2.2
+Collin Sexton,sextoco01,202402220UTA,UTA,game,True,26:18,.590,.400,.400,1.000,0.0,7.2,3.8,28.9,0.0,0.0,21.7,28.5,110,123,-2.0
+Taylor Hendricks,hendrita01,202402220UTA,UTA,game,True,25:46,.636,.611,.556,.111,16.6,18.3,17.5,6.7,0.0,0.0,0.0,14.9,147,119,3.4
+Jordan Clarkson,clarkjo01,202402220UTA,UTA,game,False,34:20,.480,.385,.308,.462,3.1,19.2,11.7,18.6,1.4,0.0,20.4,23.3,92,115,-6.9
+Kris Dunn,dunnkr01,202402220UTA,UTA,game,False,25:10,.571,.571,.429,.000,8.5,3.7,6.0,19.5,0.0,0.0,0.0,11.3,141,124,-2.1
+Walker Kessler,kesslwa01,202402220UTA,UTA,game,False,17:15,.250,.250,.250,.000,6.2,5.5,5.8,0.0,2.8,5.6,20.0,11.8,55,113,-9.2
+Brice Sensabaugh,sensabr01,202402220UTA,UTA,game,False,12:38,.583,.583,.500,.000,0.0,0.0,0.0,0.0,3.9,0.0,14.3,22.6,95,116,-2.8
+Talen Horton-Tucker,hortota01,202402220UTA,UTA,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Johnny Juzang,juzanjo01,202402220UTA,UTA,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Kira Lewis Jr.,lewiski01,202402220UTA,UTA,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Luka Šamanić,samanlu01,202402220UTA,UTA,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Omer Yurtseven,yurtsom01,202402220UTA,UTA,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Bilal Coulibaly,coulibi01,202402220DEN,WAS,game,True,32:02,.311,.333,.500,.167,0.0,3.8,1.5,8.1,1.4,2.1,0.0,7.5,79,123,-8.3
+Kyle Kuzma,kuzmaky01,202402220DEN,WAS,game,True,31:01,.579,.600,.320,.160,15.2,23.8,18.6,21.7,4.3,0.0,10.1,35.9,107,114,10.4
+Tyus Jones,jonesty01,202402220DEN,WAS,game,True,30:51,.813,.813,.625,.000,5.1,0.0,3.1,67.6,0.0,0.0,20.0,12.1,158,129,6.0
+Deni Avdija,avdijde01,202402220DEN,WAS,game,True,27:09,.208,.208,.250,.000,0.0,18.1,7.1,4.8,0.0,0.0,14.3,19.3,42,124,-20.3
+Marvin Bagley III,baglema01,202402220DEN,WAS,game,True,17:21,.500,.500,.125,.000,22.7,14.2,19.4,19.1,5.1,0.0,0.0,17.3,129,115,4.7
+Jordan Poole,poolejo01,202402220DEN,WAS,game,False,30:09,.429,.324,.529,.529,0.0,4.1,1.6,4.7,2.9,0.0,8.7,28.5,85,121,-8.7
+Corey Kispert,kispeco01,202402220DEN,WAS,game,False,24:38,.505,.500,.455,.182,0.0,10.0,3.9,18.2,3.6,0.0,25.2,24.2,78,119,-4.5
+Johnny Davis,davisjo06,202402220DEN,WAS,game,False,13:39,.205,.250,.250,.500,0.0,27.0,10.5,9.6,3.2,0.0,0.0,13.4,54,115,-11.7
+Eugene Omoruyi,omorueu01,202402220DEN,WAS,game,False,10:51,.415,.375,.250,.125,0.0,34.0,13.3,33.1,12.2,0.0,10.6,32.6,85,94,5.2
+Landry Shamet,shamela01,202402220DEN,WAS,game,False,5:09,,,,,0.0,0.0,0.0,23.3,0.0,0.0,,0.0,243,129,-7.1
+Patrick Baldwin Jr.,baldwpa01,202402220DEN,WAS,game,False,4:22,,,,,0.0,56.4,22.0,0.0,0.0,0.0,,0.0,0,116,-8.4
+Justin Champagnie,champju01,202402220DEN,WAS,game,False,4:22,1.167,1.167,.333,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.7,233,129,31.7
+Anthony Gill,gillan01,202402220DEN,WAS,game,False,4:22,.543,.000,.000,4.000,18.0,28.2,22.0,0.0,0.0,0.0,0.0,23.7,135,122,-0.9
+Richaun Holmes,holmeri01,202402220DEN,WAS,game,False,4:04,.000,.000,.000,.000,0.0,30.3,11.8,0.0,0.0,0.0,0.0,9.2,0,121,-21.8
+Nikola Jokić,jokicni01,202402220DEN,DEN,game,True,31:23,.965,1.000,.000,.200,7.8,42.6,29.1,56.4,1.4,0.0,21.6,17.2,161,93,19.4
+Jamal Murray,murraja01,202402220DEN,DEN,game,True,31:16,.529,.529,.176,.000,0.0,10.1,6.1,29.1,4.2,4.7,5.6,22.4,122,97,4.8
+Michael Porter Jr.,portemi01,202402220DEN,DEN,game,True,30:41,.652,.625,.438,.125,20.1,15.4,17.2,7.5,0.0,0.0,10.6,23.9,130,107,-1.4
+Aaron Gordon,gordoaa01,202402220DEN,DEN,game,True,21:29,.638,.583,.167,.250,0.0,7.3,4.5,22.1,2.0,0.0,18.4,29.5,113,105,-3.6
+Kentavious Caldwell-Pope,caldwke01,202402220DEN,DEN,game,True,15:52,.000,.000,.500,.000,0.0,9.9,6.1,5.4,0.0,0.0,0.0,14.7,15,110,-22.9
+Christian Braun,braunch01,202402220DEN,DEN,game,False,23:07,.644,.688,.250,.375,21.3,20.4,20.8,4.6,3.8,0.0,9.7,17.3,129,96,1.6
+Peyton Watson,watsope01,202402220DEN,DEN,game,False,22:09,.764,.700,.200,1.000,11.1,10.7,10.8,4.4,2.0,13.1,35.7,19.6,103,96,1.7
+Reggie Jackson,jacksre01,202402220DEN,DEN,game,False,21:38,.393,.393,.500,.000,0.0,3.6,2.2,24.7,2.0,0.0,12.5,28.7,90,108,-11.2
+Zeke Nnaji,nnajize01,202402220DEN,DEN,game,False,16:37,.800,.800,.200,.000,0.0,14.2,8.7,6.5,0.0,17.5,0.0,11.7,163,96,8.5
+Justin Holiday,holidju01,202402220DEN,DEN,game,False,15:12,.800,.800,.600,.000,0.0,5.2,3.2,13.6,5.8,4.8,0.0,12.8,167,96,13.8
+Jay Huff,huffja01,202402220DEN,DEN,game,False,4:22,.500,.500,.500,.000,0.0,36.0,22.0,0.0,0.0,0.0,0.0,17.8,106,95,-14.9
+Julian Strawther,strawju01,202402220DEN,DEN,game,False,4:11,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.3,0,114,-19.7
+Jalen Pickett,pickeja02,202402220DEN,DEN,game,False,2:03,,,,,0.0,0.0,0.0,41.8,0.0,0.0,,0.0,213,114,3.5
+DeAndre Jordan,jordade01,202402220DEN,DEN,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Braxton Key,keybr01,202402220DEN,DEN,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Paul George,georgpa01,202402220OKC,LAC,game,True,35:51,.438,.438,.375,.000,2.8,20.6,10.9,23.7,1.3,0.0,0.0,19.0,109,129,-0.1
+Kawhi Leonard,leonaka01,202402220OKC,LAC,game,True,30:32,.776,.750,.167,.167,0.0,12.1,5.5,11.3,1.6,0.0,13.4,20.8,131,130,3.0
+Ivica Zubac,zubaciv01,202402220OKC,LAC,game,True,29:29,.472,.417,.000,.333,13.9,33.4,22.7,4.8,0.0,3.0,6.8,21.3,106,127,-5.6
+James Harden,hardeja01,202402220OKC,LAC,game,True,29:28,.790,.722,.667,.444,6.9,16.7,11.4,9.6,1.6,0.0,21.8,19.9,126,129,2.8
+Terance Mann,mannte01,202402220OKC,LAC,game,True,27:43,.500,.500,.375,.000,7.4,17.8,12.1,28.2,0.0,0.0,11.1,13.8,120,133,3.0
+Norman Powell,powelno01,202402220OKC,LAC,game,False,30:47,.598,.600,.600,.133,3.3,4.0,3.6,5.0,0.0,2.8,15.9,26.1,99,132,-1.5
+Amir Coffey,coffeam01,202402220OKC,LAC,game,False,28:18,.474,.438,.500,.125,0.0,4.3,2.0,13.8,3.4,0.0,10.6,14.2,100,127,-1.6
+Russell Westbrook,westbru01,202402220OKC,LAC,game,False,16:00,.111,.111,.222,.000,0.0,7.7,3.5,38.5,3.0,0.0,10.0,26.6,52,127,-14.2
+Mason Plumlee,plumlma01,202402220OKC,LAC,game,False,7:59,.500,.500,.000,.000,12.8,46.3,28.0,16.7,0.0,0.0,0.0,10.7,135,128,0.6
+Brandon Boston Jr.,bostobr01,202402220OKC,LAC,game,False,3:53,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,43.9,64,135,-9.2
+Bones Hyland,hylanbo01,202402220OKC,LAC,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Daniel Theis,theisda01,202402220OKC,LAC,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+P.J. Tucker,tuckepj01,202402220OKC,LAC,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Jalen Williams,willija06,202402220OKC,OKC,game,True,36:04,.610,.615,.308,.308,0.0,11.3,6.2,19.6,1.3,6.5,6.3,19.2,131,108,5.1
+Shai Gilgeous-Alexander,gilgesh01,202402220OKC,OKC,game,True,34:33,.716,.711,.316,.316,0.0,11.8,6.5,33.3,1.4,4.6,8.5,30.0,144,109,13.2
+Chet Holmgren,holmgch01,202402220OKC,OKC,game,True,32:55,.638,.625,.500,.250,11.2,21.7,17.0,10.6,0.0,7.2,18.4,21.7,120,107,1.2
+Luguentz Dort,dortlu01,202402220OKC,OKC,game,True,30:40,.731,.731,.462,.000,4.0,6.7,5.5,4.2,1.6,5.1,0.0,18.6,150,110,6.7
+Josh Giddey,giddejo01,202402220OKC,OKC,game,True,22:48,.530,.450,.300,.300,0.0,22.4,12.2,10.1,0.0,3.5,20.9,27.5,93,110,-6.3
+Cason Wallace,wallaca01,202402220OKC,OKC,game,False,19:11,1.167,1.167,.333,.000,12.8,10.6,11.6,17.7,10.0,0.0,0.0,6.9,233,93,22.4
+Isaiah Joe,joeis01,202402220OKC,OKC,game,False,19:01,.900,.900,.400,.000,0.0,10.7,5.9,6.3,0.0,0.0,16.7,13.8,145,116,-0.2
+Kenrich Williams,willike04,202402220OKC,OKC,game,False,15:05,.500,.500,.429,.000,8.2,27.1,18.5,0.0,0.0,0.0,0.0,20.3,111,111,-5.9
+Aaron Wiggins,wiggiaa01,202402220OKC,OKC,game,False,13:42,.699,.667,.667,.167,9.0,7.5,8.1,0.0,7.0,0.0,23.7,27.0,107,101,3.4
+Gordon Hayward,haywago01,202402220OKC,OKC,game,False,13:35,.000,.000,.000,.000,0.0,30.1,16.4,0.0,0.0,0.0,0.0,6.5,0,110,-10.1
+Olivier Sarr,sarrol01,202402220OKC,OKC,game,False,1:13,,,,,0.0,83.9,45.9,0.0,0.0,0.0,,0.0,0,95,1.4
+Lindy Waters III,waterli01,202402220OKC,OKC,game,False,1:13,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,-6.4
+Bismack Biyombo,biyombi01,202402220OKC,OKC,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Aleksej Pokusevski,pokusal01,202402220OKC,OKC,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Jaylin Williams,willija07,202402220OKC,OKC,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Fred VanVleet,vanvlfr01,202402220NOP,HOU,game,True,30:26,.394,.375,.750,.250,3.4,7.7,5.4,28.8,3.0,0.0,31.1,17.5,81,121,-7.2
+Dillon Brooks,brookdi01,202402220NOP,HOU,game,True,27:18,.509,.500,.833,.333,0.0,8.6,4.0,10.8,0.0,0.0,0.0,10.4,118,127,-5.2
+Alperen Şengün,sengual01,202402220NOP,HOU,game,True,27:08,.746,.722,.111,1.111,7.7,30.2,18.3,13.9,1.7,0.0,18.3,24.9,125,119,4.2
+Jabari Smith Jr.,smithja05,202402220NOP,HOU,game,True,26:38,.765,.800,.400,.400,3.9,13.2,8.3,5.9,0.0,0.0,25.4,12.2,108,127,-2.5
+Jalen Green,greenja05,202402220NOP,HOU,game,True,23:38,.336,.286,.571,.143,4.4,14.9,9.3,13.6,2.0,0.0,6.3,27.7,80,122,-8.9
+Amen Thompson,thompam01,202402220NOP,HOU,game,False,27:35,.724,.731,.231,.385,7.6,12.7,10.0,34.2,0.0,9.5,16.5,27.2,124,120,10.6
+Cam Whitmore,whitmca01,202402220NOP,HOU,game,False,24:27,.528,.545,.727,.273,4.3,14.4,9.0,0.0,0.0,7.1,14.0,24.2,88,121,-3.7
+Jock Landale,landajo01,202402220NOP,HOU,game,False,12:00,1.000,1.000,.000,.000,8.7,19.5,13.8,37.5,3.9,0.0,0.0,3.4,223,117,12.4
+Jae'Sean Tate,tateja01,202402220NOP,HOU,game,False,12:00,.667,.667,.333,.000,0.0,48.8,23.0,28.6,3.9,0.0,57.1,24.1,61,111,-7.7
+Reggie Bullock,bullore01,202402220NOP,HOU,game,False,9:53,.500,.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.5,101,129,-7.0
+Jeff Green,greenje02,202402220NOP,HOU,game,False,9:07,.581,.500,.500,.333,22.9,12.8,18.2,62.0,0.0,0.0,0.0,31.1,149,126,17.9
+Aaron Holiday,holidaa01,202402220NOP,HOU,game,False,7:44,.000,.000,.333,.000,0.0,15.1,7.1,17.2,0.0,0.0,40.0,26.7,14,127,-30.0
+Jeenathan Williams,willije02,202402220NOP,HOU,game,False,2:06,,,,,49.7,0.0,26.3,63.5,0.0,0.0,100.0,19.7,79,129,-3.0
+Boban Marjanović,marjabo01,202402220NOP,HOU,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Herbert Jones,joneshe01,202402220NOP,NOP,game,True,36:48,.824,.833,.556,.333,3.2,11.3,7.5,12.4,8.8,0.0,8.8,12.6,154,90,11.8
+Zion Williamson,willizi01,202402220NOP,NOP,game,True,34:57,.593,.571,.000,.190,3.3,6.0,4.7,36.9,2.6,3.3,11.6,30.3,121,105,5.8
+Trey Murphy III,murphtr02,202402220NOP,NOP,game,True,34:22,.444,.417,.833,.500,0.0,9.1,4.8,3.1,4.0,10.2,6.4,18.7,89,98,-2.8
+CJ McCollum,mccolcj01,202402220NOP,NOP,game,True,31:18,.600,.591,.455,.136,3.7,16.7,10.6,27.8,0.0,0.0,7.9,33.2,119,110,3.4
+Jonas Valančiūnas,valanjo01,202402220NOP,NOP,game,True,27:28,.833,.833,.167,.000,12.8,41.8,28.1,15.3,1.7,0.0,7.7,19.4,156,97,10.6
+Jose Alvarado,alvarjo01,202402220NOP,NOP,game,False,20:11,.619,.625,.625,.250,5.8,5.2,5.5,41.1,2.3,11.6,25.3,24.2,115,103,9.3
+Naji Marshall,marshna01,202402220NOP,NOP,game,False,19:53,.600,.600,.800,.000,0.0,10.5,5.5,16.0,2.3,0.0,0.0,10.3,139,106,1.6
+Jordan Hawkins,hawkijo01,202402220NOP,NOP,game,False,17:05,.250,.250,.833,.000,0.0,12.2,6.5,0.0,0.0,0.0,0.0,14.4,55,110,-17.6
+Larry Nance Jr.,nancela02,202402220NOP,NOP,game,False,11:40,,,,,10.0,17.9,14.2,8.2,0.0,0.0,100.0,7.0,56,108,-14.7
+Jeremiah Robinson-Earl,robinje02,202402220NOP,NOP,game,False,2:06,,,,,0.0,49.7,26.3,0.0,0.0,0.0,,0.0,0,99,-4.9
+Matt Ryan,ryanma01,202402220NOP,NOP,game,False,2:06,,,,,0.0,0.0,0.0,0.0,22.0,0.0,,0.0,0,64,17.8
+Cody Zeller,zelleco01,202402220NOP,NOP,game,False,2:06,1.000,1.000,.000,.000,55.7,49.7,52.5,84.2,0.0,0.0,0.0,19.5,214,99,39.8
+Jayson Tatum,tatumja01,202402220CHI,BOS,game,True,34:55,.636,.618,.588,.353,0.0,21.9,11.9,20.2,4.2,0.0,13.3,29.6,117,110,2.9
+Derrick White,whitede01,202402220CHI,BOS,game,True,33:11,.864,.821,.714,.357,0.0,9.9,5.4,22.6,2.9,6.6,11.0,25.0,156,112,16.2
+Jaylen Brown,brownja02,202402220CHI,BOS,game,True,32:55,.717,.708,.417,.500,0.0,16.6,9.0,21.0,1.5,2.2,12.0,23.1,135,116,3.6
+Kristaps Porziņģis,porzikr01,202402220CHI,BOS,game,True,29:40,.415,.375,.563,.125,0.0,14.7,8.0,4.4,1.6,7.4,5.6,27.5,82,112,-11.3
+Jrue Holiday,holidjr01,202402220CHI,BOS,game,True,29:15,.765,.800,.600,.400,0.0,11.2,6.1,24.6,3.3,2.5,25.4,12.3,137,113,4.3
+Al Horford,horfoal01,202402220CHI,BOS,game,False,22:38,.000,.000,.000,.000,5.7,19.3,13.1,0.0,0.0,3.2,50.0,4.0,47,118,-9.0
+Payton Pritchard,pritcpa01,202402220CHI,BOS,game,False,19:51,.750,.750,1.000,.000,0.0,16.5,9.0,6.4,0.0,0.0,25.0,18.4,104,121,-4.0
+Sam Hauser,hausesa01,202402220CHI,BOS,game,False,14:28,1.333,1.333,.667,.000,0.0,7.5,4.1,9.5,0.0,5.0,0.0,9.5,264,120,14.3
+Luke Kornet,kornelu01,202402220CHI,BOS,game,False,13:52,.833,.833,.000,.000,37.4,0.0,17.1,25.0,3.5,0.0,0.0,19.7,191,118,12.8
+Xavier Tillman Sr.,tillmxa01,202402220CHI,BOS,game,False,2:33,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,28.5,0.0,17.9,200,106,14.3
+Oshae Brissett,brissos01,202402220CHI,BOS,game,False,2:14,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-7.2
+Svi Mykhailiuk,mykhasv01,202402220CHI,BOS,game,False,2:14,1.500,1.500,1.000,.000,0.0,48.8,26.5,91.4,0.0,0.0,0.0,20.4,285,110,52.8
+Jaden Springer,sprinja01,202402220CHI,BOS,game,False,2:14,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.4,0,126,-31.5
+Ayo Dosunmu,dosunay01,202402220CHI,CHI,game,True,40:40,.500,.500,.429,.000,2.7,22.3,11.7,25.6,1.2,0.0,12.5,16.6,111,131,-1.2
+DeMar DeRozan,derozde01,202402220CHI,CHI,game,True,35:40,.506,.441,.176,.235,3.1,10.9,6.6,19.5,1.4,0.0,9.6,24.5,109,132,-3.1
+Coby White,whiteco01,202402220CHI,CHI,game,True,35:10,.533,.471,.529,.235,0.0,7.4,3.4,15.2,1.4,0.0,9.6,24.8,110,132,-3.4
+Nikola Vučević,vucevni01,202402220CHI,CHI,game,True,34:38,.553,.526,.158,.105,15.7,33.7,24.0,9.2,0.0,0.0,16.8,29.0,104,133,-4.8
+Alex Caruso,carusal01,202402220CHI,CHI,game,True,29:43,.667,.667,.444,.000,0.0,13.1,6.0,22.5,3.3,4.5,25.0,17.0,107,124,2.9
+Julian Phillips,phillju01,202402220CHI,CHI,game,False,17:45,.900,.900,.200,.000,0.0,14.6,6.7,8.1,0.0,0.0,0.0,11.9,178,135,4.9
+Andre Drummond,drumman01,202402220CHI,CHI,game,False,17:23,.564,.500,.000,.500,25.1,29.9,27.3,0.0,0.0,7.7,0.0,23.6,135,129,1.4
+Jevon Carter,carteje01,202402220CHI,CHI,game,False,12:05,.500,.500,.500,.000,0.0,10.7,4.9,19.8,0.0,0.0,0.0,7.0,136,136,-4.4
+Dalen Terry,terryda01,202402220CHI,CHI,game,False,11:50,.798,1.000,.000,2.000,18.4,11.0,15.0,20.3,4.1,0.0,0.0,6.7,186,126,10.7
+Onuralp Bitim,bitimon01,202402220CHI,CHI,game,False,2:33,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,0,137,-41.0
+Terry Taylor,taylote01,202402220CHI,CHI,game,False,2:33,,,,,0.0,0.0,0.0,42.8,0.0,0.0,,0.0,223,137,8.8
+Torrey Craig,craigto01,202402220CHI,CHI,game,False,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+Kevin Durant,duranke01,202402220DAL,PHO,game,True,40:22,.475,.455,.364,.227,0.0,17.8,8.9,4.1,1.2,2.6,17.1,31.7,83,128,-9.9
+Devin Booker,bookede01,202402220DAL,PHO,game,True,39:18,.714,.667,.286,.381,3.1,12.2,7.6,40.5,1.3,0.0,14.0,31.8,137,131,9.2
+Grayson Allen,allengr01,202402220DAL,PHO,game,True,36:45,1.050,1.000,.667,1.333,3.3,13.1,8.2,7.0,0.0,0.0,17.4,6.9,182,134,-0.1
+Eric Gordon,gordoer01,202402220DAL,PHO,game,True,35:21,.707,.700,.700,.300,0.0,3.4,1.7,4.1,2.8,3.0,8.1,15.3,134,128,3.7
+Jusuf Nurkić,nurkiju01,202402220DAL,PHO,game,True,19:32,.363,.333,.000,.333,12.3,18.4,15.4,21.0,5.1,5.3,12.7,17.7,101,117,0.2
+Royce O'Neale,onealro01,202402220DAL,PHO,game,False,29:54,.417,.417,.667,.000,4.0,32.1,18.1,9.6,1.7,0.0,7.7,19.0,95,125,-5.1
+Josh Okogie,okogijo01,202402220DAL,PHO,game,False,18:30,.698,.714,.571,.286,25.9,0.0,13.0,8.8,0.0,0.0,20.2,23.4,126,138,2.4
+Saben Lee,leesa01,202402220DAL,PHO,game,False,6:17,,,,,0.0,38.2,19.1,38.2,0.0,0.0,,0.0,238,127,5.2
+Drew Eubanks,eubandr01,202402220DAL,PHO,game,False,6:05,,,,,39.5,19.7,29.6,0.0,0.0,17.2,100.0,7.2,88,121,-9.8
+Nassir Little,littlna01,202402220DAL,PHO,game,False,5:51,.750,.750,.500,.000,0.0,20.5,10.3,0.0,0.0,0.0,0.0,15.0,151,132,1.9
+Théo Maledon,maledth01,202402220DAL,PHO,game,False,1:02,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,138,-6.9
+David Roddy,roddyda01,202402220DAL,PHO,game,False,1:02,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,138,-6.7
+Bol Bol,bolbo01,202402220DAL,PHO,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Thaddeus Young,youngth01,202402220DAL,PHO,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Luka Dončić,doncilu01,202402220DAL,DAL,game,True,38:03,.682,.630,.407,.259,0.0,28.4,14.2,54.8,3.9,0.0,9.1,38.2,141,111,18.8
+Kyrie Irving,irvinky01,202402220DAL,DAL,game,True,35:41,.768,.750,.444,.111,3.4,13.5,8.4,14.3,1.4,0.0,5.0,24.5,151,121,9.4
+P.J. Washington,washipj01,202402220DAL,DAL,game,True,30:35,.551,.500,.600,.200,7.8,15.7,11.8,4.3,1.6,3.3,8.4,17.1,118,118,-2.1
+Josh Green,greenjo02,202402220DAL,DAL,game,True,25:07,.643,.643,.714,.000,4.8,4.8,4.8,25.6,4.0,0.0,22.2,15.7,125,117,3.5
+Dereck Lively II,livelde01,202402220DAL,DAL,game,True,15:53,.644,.667,.000,.667,22.7,7.6,15.1,8.2,0.0,12.9,0.0,10.7,165,119,3.2
+Tim Hardaway Jr.,hardati02,202402220DAL,DAL,game,False,30:10,.432,.423,.692,.154,0.0,15.9,8.0,0.0,3.3,0.0,12.6,23.1,77,116,-10.6
+Maxi Kleber,klebima01,202402220DAL,DAL,game,False,25:48,.500,.500,.429,.000,0.0,9.3,4.7,5.0,1.9,0.0,0.0,11.9,111,121,-3.8
+Derrick Jones Jr.,jonesde02,202402220DAL,DAL,game,False,18:23,.515,.500,.667,.667,6.5,6.5,6.5,6.5,0.0,5.6,0.0,9.3,133,123,-0.5
+Daniel Gafford,gaffoda01,202402220DAL,DAL,game,False,17:13,.725,.000,.000,4.000,13.9,20.9,17.4,6.5,0.0,5.9,26.6,9.6,145,118,-5.0
+Jaden Hardy,hardyja02,202402220DAL,DAL,game,False,1:02,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.5,0,128,-51.8
+Dwight Powell,poweldw01,202402220DAL,DAL,game,False,1:02,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,128,-8.5
+Olivier-Maxence Prosper,prospol01,202402220DAL,DAL,game,False,1:02,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,128,-6.8
+Markieff Morris,morrima02,202402220DAL,DAL,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Mikal Bridges,bridgmi01,202402220TOR,BRK,game,True,35:18,.591,.563,.625,.250,0.0,13.6,6.5,5.8,1.4,0.0,5.3,23.5,109,124,1.7
+Nic Claxton,claxtni01,202402220TOR,BRK,game,True,32:01,.600,.600,.000,.000,6.8,30.0,17.8,15.8,3.0,0.0,28.6,9.7,105,117,-0.3
+Cam Thomas,thomaca02,202402220TOR,BRK,game,True,30:03,.578,.563,.438,.063,3.6,4.0,3.8,31.6,3.2,0.0,10.8,27.1,108,121,5.1
+Ben Simmons,simmobe01,202402220TOR,BRK,game,True,21:08,.410,.500,.000,.500,0.0,22.7,10.8,29.6,0.0,0.0,29.1,7.2,96,125,-4.3
+Dorian Finney-Smith,finnedo01,202402220TOR,BRK,game,True,14:38,.500,.500,1.000,.000,7.5,8.2,7.8,0.0,3.3,0.0,50.0,18.1,53,120,-14.5
+Dennis Schröder,schrode01,202402220TOR,BRK,game,False,23:15,.254,.214,.429,.286,0.0,10.3,4.9,13.3,0.0,0.0,20.2,18.8,51,127,-16.7
+Cameron Johnson,johnsca02,202402220TOR,BRK,game,False,20:40,.342,.143,.857,.571,0.0,11.6,5.5,15.1,2.3,4.4,0.0,18.7,84,118,-4.0
+Lonnie Walker IV,walkelo01,202402220TOR,BRK,game,False,18:34,.423,.423,.538,.000,0.0,25.9,12.3,0.0,0.0,0.0,0.0,30.9,81,124,-7.1
+Dennis Smith Jr.,smithde03,202402220TOR,BRK,game,False,16:06,.773,.667,.000,.667,0.0,22.4,10.6,11.0,0.0,0.0,50.8,21.6,75,125,-12.4
+Day'Ron Sharpe,sharpda01,202402220TOR,BRK,game,False,15:59,.589,.600,.000,1.200,13.7,22.5,17.9,12.5,0.0,0.0,34.4,32.2,84,125,-10.4
+Keita Bates-Diop,bateske01,202402220TOR,BRK,game,False,4:06,,,,,0.0,29.3,13.9,0.0,0.0,22.1,,0.0,0,106,5.1
+Trendon Watford,watfotr01,202402220TOR,BRK,game,False,4:06,1.064,1.000,.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.3,229,129,11.0
+Jalen Wilson,wilsoja03,202402220TOR,BRK,game,False,4:06,.500,.500,.500,.000,0.0,0.0,0.0,55.0,0.0,0.0,0.0,21.5,117,128,-4.6
+Immanuel Quickley,quickim01,202402220TOR,TOR,game,True,32:42,.693,.656,.500,.188,0.0,20.0,10.5,15.1,4.4,0.0,0.0,23.7,142,90,11.5
+Gary Trent Jr.,trentga02,202402220TOR,TOR,game,True,31:28,.970,.958,.583,.167,0.0,3.5,1.8,11.2,1.5,0.0,0.0,18.3,188,99,12.3
+Scottie Barnes,barnesc01,202402220TOR,TOR,game,True,30:38,.610,.577,.231,.308,15.7,28.5,22.4,15.7,4.7,3.6,21.3,27.4,111,85,4.6
+RJ Barrett,barrerj01,202402220TOR,TOR,game,True,29:05,.432,.462,.308,.154,0.0,18.8,9.8,35.3,0.0,0.0,17.8,26.0,89,99,-5.8
+Jakob Poeltl,poeltja01,202402220TOR,TOR,game,True,25:40,.457,.429,.000,.571,4.7,34.0,20.0,10.6,1.9,13.0,10.2,17.0,99,84,-0.2
+Bruce Brown,brownbr01,202402220TOR,TOR,game,False,24:50,.444,.200,.600,.800,0.0,4.4,2.3,19.8,0.0,0.0,0.0,12.2,121,102,-4.3
+Kelly Olynyk,olynyke01,202402220TOR,TOR,game,False,18:14,.592,.400,.200,.800,6.6,17.9,12.5,7.4,2.6,6.1,12.9,19.1,119,89,-1.4
+Gradey Dick,dickgr01,202402220TOR,TOR,game,False,16:37,.583,.583,.500,.000,7.2,19.7,13.8,0.0,0.0,0.0,0.0,16.2,121,100,-2.3
+Ochai Agbaji,agbajoc01,202402220TOR,TOR,game,False,14:22,.500,.500,.500,.000,0.0,0.0,0.0,17.7,3.4,7.8,33.3,9.4,92,90,2.8
+Chris Boucher,bouchch01,202402220TOR,TOR,game,False,4:06,.532,.000,1.000,2.000,0.0,26.6,13.9,0.0,0.0,0.0,0.0,20.5,121,98,-5.3
+D.J. Carton,cartodj01,202402220TOR,TOR,game,False,4:06,1.042,1.000,.000,1.000,0.0,26.6,13.9,0.0,0.0,0.0,0.0,15.7,220,96,0.1
+Jalen McDaniels,mcdanja01,202402220TOR,TOR,game,False,4:06,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.9,0,103,-17.2
+Jordan Nwora,nworajo01,202402220TOR,TOR,game,False,4:06,.798,.500,.000,2.000,0.0,26.6,13.9,0.0,0.0,0.0,0.0,41.1,172,98,15.2
+Garrett Temple,templga01,202402220TOR,TOR,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Josh Hart,hartjo01,202402220PHI,NYK,game,True,44:13,.648,.615,.385,.154,2.5,29.9,15.7,10.7,0.0,2.0,17.8,17.3,115,103,-0.9
+Jalen Brunson,brunsja01,202402220PHI,NYK,game,True,39:23,.460,.278,.222,.611,0.0,6.1,2.9,45.8,2.5,2.2,23.5,34.3,99,102,-5.2
+Precious Achiuwa,achiupr01,202402220PHI,NYK,game,True,38:13,.745,.833,.222,.778,11.7,22.0,16.6,8.6,2.6,2.3,14.2,16.7,135,98,4.4
+Donte DiVincenzo,divindo01,202402220PHI,NYK,game,True,34:38,.533,.533,.733,.000,0.0,10.4,5.0,14.0,2.9,5.0,11.8,22.3,103,98,2.0
+Isaiah Hartenstein,harteis01,202402220PHI,NYK,game,True,10:48,,,,,10.3,11.1,10.7,0.0,4.6,0.0,,0.0,230,98,-1.2
+Bojan Bogdanović,bogdabo02,202402220PHI,NYK,game,False,23:33,.793,.846,.462,.154,0.0,10.2,4.9,0.0,6.4,0.0,0.0,26.7,143,94,17.3
+Jericho Sims,simsje01,202402220PHI,NYK,game,False,18:01,.694,.500,.000,1.000,31.0,33.3,32.1,15.1,0.0,4.8,0.0,7.2,192,100,6.5
+Miles McBride,mcbrimi01,202402220PHI,NYK,game,False,17:07,.500,.500,.500,.000,6.5,7.0,6.8,8.7,2.9,0.0,0.0,10.6,126,102,-1.1
+Alec Burks,burksal01,202402220PHI,NYK,game,False,13:22,.554,.600,.800,.600,0.0,9.0,4.3,11.7,0.0,0.0,13.7,24.8,100,109,-3.8
+DaQuan Jeffries,jeffrda01,202402220PHI,NYK,game,False,0:21,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,110,-7.0
+Jacob Toppin,toppija01,202402220PHI,NYK,game,False,0:21,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,110,-7.6
+Charlie Brown Jr.,brownch02,202402220PHI,NYK,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Tyrese Maxey,maxeyty01,202402220PHI,PHI,game,True,39:34,.626,.542,.458,.375,3.0,14.1,8.8,25.6,0.0,0.0,12.5,35.8,115,120,7.1
+Buddy Hield,hieldbu01,202402220PHI,PHI,game,True,32:55,.467,.467,.600,.000,0.0,6.8,3.5,29.5,1.5,3.2,11.8,22.9,94,117,1.3
+Tobias Harris,harrito02,202402220PHI,PHI,game,True,26:36,.389,.389,.333,.000,0.0,16.8,8.7,17.1,5.7,0.0,0.0,15.0,93,106,2.6
+Paul Reed,reedpa01,202402220PHI,PHI,game,True,22:29,.500,.500,.000,.000,5.3,19.9,12.9,0.0,0.0,0.0,0.0,3.9,118,118,-7.8
+Nicolas Batum,batumni01,202402220PHI,PHI,game,True,18:09,,,,,0.0,18.5,9.6,7.1,0.0,0.0,100.0,2.4,44,117,-11.4
+Kelly Oubre Jr.,oubreke01,202402220PHI,PHI,game,False,33:18,.470,.429,.214,.143,3.6,10.1,6.9,0.0,3.0,0.0,25.2,26.5,70,114,-10.1
+Kyle Lowry,lowryky01,202402220PHI,PHI,game,False,25:07,.786,.786,.286,.000,4.8,13.3,9.2,34.8,0.0,0.0,30.0,17.7,118,120,1.0
+KJ Martin,martike04,202402220PHI,PHI,game,False,21:06,.600,.600,.000,.000,11.4,26.5,19.2,7.5,2.4,5.1,0.0,10.5,136,108,6.3
+Cameron Payne,payneca01,202402220PHI,PHI,game,False,9:19,.543,.500,.000,.167,0.0,0.0,0.0,0.0,0.0,0.0,13.4,35.4,89,124,-10.6
+Mo Bamba,bambamo01,202402220PHI,PHI,game,False,4:32,.000,.000,.500,.000,0.0,24.6,12.8,28.6,0.0,23.5,33.3,29.4,19,104,-13.3
+Ricky Council IV,councri01,202402220PHI,PHI,game,False,4:09,.000,,,,28.9,26.9,27.9,31.3,0.0,0.0,0.0,9.4,91,116,0.8
+Darius Bazley,bazleda01,202402220PHI,PHI,game,False,1:23,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,32.1,0,125,-41.7
+Terquavion Smith,smithte01,202402220PHI,PHI,game,False,1:23,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,125,-9.2
+Kenneth Lofton Jr.,loftoke01,202402220PHI,PHI,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Ausar Thompson,thompau01,202402220IND,DET,game,True,35:06,.468,.500,.200,.400,10.0,13.0,11.5,17.0,2.6,6.4,0.0,14.4,121,114,3.1
+Simone Fontecchio,fontesi01,202402220IND,DET,game,True,33:14,.583,.583,.500,.000,0.0,3.4,1.7,0.0,0.0,0.0,7.7,16.8,101,127,-7.7
+Jaden Ivey,iveyja01,202402220IND,DET,game,True,31:58,.549,.500,.273,.364,3.7,3.6,3.6,11.4,0.0,0.0,7.3,18.5,113,127,-6.3
+Cade Cunningham,cunnica01,202402220IND,DET,game,True,30:17,.714,.714,.429,.000,0.0,18.9,9.5,48.0,1.5,0.0,12.5,34.0,128,122,8.8
+Jalen Duren,durenja01,202402220IND,DET,game,True,30:09,.656,.636,.000,.091,7.8,41.7,24.9,8.9,0.0,0.0,25.9,22.0,102,122,-5.9
+James Wiseman,wisemja01,202402220IND,DET,game,False,17:51,.577,.667,.000,1.667,0.0,32.0,16.2,12.9,0.0,4.2,16.1,14.9,107,120,-3.7
+Evan Fournier,fournev01,202402220IND,DET,game,False,17:34,1.025,1.125,1.000,.500,0.0,26.0,13.2,0.0,0.0,0.0,17.0,14.4,143,124,3.0
+Troy Brown Jr.,browntr01,202402220IND,DET,game,False,12:50,.250,.250,.500,.000,0.0,17.8,9.0,17.3,0.0,0.0,20.0,16.7,62,125,-13.1
+Malachi Flynn,flynnma01,202402220IND,DET,game,False,11:11,.200,.200,.200,.000,0.0,10.2,5.2,30.1,8.1,0.0,28.6,26.8,53,108,-12.6
+Marcus Sasser,sassema01,202402220IND,DET,game,False,10:00,.654,.667,.333,.333,0.0,11.4,5.8,29.4,4.5,0.0,12.7,33.8,117,116,8.5
+Shake Milton,miltosh01,202402220IND,DET,game,False,9:50,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.7,97,128,-10.8
+Tosan Evbuomwan,evbuoto01,202402220IND,DET,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Mike Muscala,muscami01,202402220IND,DET,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Isaiah Stewart,stewais01,202402220IND,DET,game,False,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team
+Bennedict Mathurin,mathube01,202402220IND,IND,game,True,35:19,.463,.393,.214,.357,9.7,9.9,9.8,15.7,1.3,0.0,11.0,21.4,105,113,-5.8
+Tyrese Haliburton,halibty01,202402220IND,IND,game,True,33:34,.678,.667,.556,.056,0.0,7.0,3.4,52.1,2.7,0.0,21.3,29.1,119,111,6.1
+Andrew Nembhard,nembhan01,202402220IND,IND,game,True,32:16,.500,.500,.250,.000,0.0,21.8,10.8,16.9,2.8,2.5,20.0,12.9,97,106,-3.8
+Pascal Siakam,siakapa01,202402220IND,IND,game,True,31:42,.592,.563,.125,.125,0.0,14.8,7.3,8.0,0.0,0.0,0.0,22.2,119,115,-3.5
+Myles Turner,turnemy01,202402220IND,IND,game,True,28:15,.630,.556,.333,.333,4.0,41.4,22.5,4.1,3.2,5.8,8.8,16.7,120,99,0.4
+Isaiah Jackson,jacksis01,202402220IND,IND,game,False,19:44,.979,1.000,.000,1.500,0.0,0.0,0.0,0.0,0.0,0.0,13.1,16.1,167,116,-1.6
+T.J. McConnell,mccontj01,202402220IND,IND,game,False,17:36,.727,.727,.182,.000,0.0,39.9,19.7,44.1,5.2,4.6,8.3,28.4,136,97,18.2
+Obi Toppin,toppiob01,202402220IND,IND,game,False,16:18,.654,.667,.500,.333,21.0,21.5,21.3,21.5,2.8,5.0,12.7,20.1,135,104,10.3
+Ben Sheppard,sheppbe01,202402220IND,IND,game,False,14:53,.700,.700,.400,.000,0.0,7.9,3.9,0.0,0.0,0.0,0.0,14.0,128,116,-4.0
+Doug McDermott,mcderdo01,202402220IND,IND,game,False,10:20,.500,.500,1.000,.000,0.0,0.0,0.0,20.5,0.0,0.0,0.0,12.1,122,116,-2.6
+Kendall Brown,brownke03,202402220IND,IND,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+James Johnson,johnsja01,202402220IND,IND,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Jalen Smith,smithja04,202402220IND,IND,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Oscar Tshiebwe,tshieos01,202402220IND,IND,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Jarace Walker,walkeja02,202402220IND,IND,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Paolo Banchero,banchpa01,202402220CLE,ORL,game,True,33:37,.378,.333,.267,.133,7.9,19.0,13.0,15.3,0.0,0.0,20.1,27.1,83,125,-14.3
+Franz Wagner,wagnefr01,202402220CLE,ORL,game,True,31:47,.612,.591,.364,.091,0.0,20.1,9.2,17.8,1.7,0.0,20.8,20.8,107,121,-1.7
+Gary Harris,harriga01,202402220CLE,ORL,game,True,28:56,.820,.750,.500,.500,0.0,0.0,0.0,12.5,5.5,0.0,17.0,9.3,150,115,5.8
+Wendell Carter Jr.,cartewe01,202402220CLE,ORL,game,True,23:08,.857,.857,.429,.000,0.0,13.8,6.3,6.4,0.0,0.0,12.5,15.8,142,125,2.7
+Jalen Suggs,suggsja01,202402220CLE,ORL,game,True,18:08,.438,.438,.500,.000,0.0,8.8,4.0,22.7,2.9,0.0,0.0,20.2,113,120,-0.6
+Moritz Wagner,wagnemo01,202402220CLE,ORL,game,False,24:42,.709,.625,.083,.667,10.8,32.4,20.6,0.0,2.1,0.0,0.0,28.7,154,118,6.5
+Anthony Black,blackan01,202402220CLE,ORL,game,False,23:43,.571,.500,.286,.286,5.6,13.5,9.2,11.0,0.0,0.0,11.3,17.1,121,126,-2.9
+Cole Anthony,anthoco01,202402220CLE,ORL,game,False,19:05,.813,.813,.125,.000,0.0,16.8,7.6,54.1,2.8,5.2,11.1,21.6,159,115,17.7
+Jonathan Isaac,isaacjo01,202402220CLE,ORL,game,False,18:52,.394,.375,.125,.250,35.3,17.0,27.0,7.2,0.0,10.6,10.1,24.0,108,118,-5.1
+Joe Ingles,inglejo01,202402220CLE,ORL,game,False,18:00,1.351,1.375,.750,.250,0.0,8.9,4.0,16.5,2.9,0.0,18.4,13.8,198,119,17.0
+Goga Bitadze,bitadgo01,202402220CLE,ORL,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Caleb Houstan,houstca01,202402220CLE,ORL,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Chuma Okeke,okekech01,202402220CLE,ORL,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Darius Garland,garlada01,202402220CLE,CLE,game,True,37:00,.634,.625,.417,.417,0.0,7.2,3.9,41.6,2.9,0.0,22.0,24.0,116,128,0.0
+Jarrett Allen,allenja01,202402220CLE,CLE,game,True,34:25,.666,.600,.000,.800,9.3,31.0,21.1,4.6,3.1,0.0,12.9,22.0,123,122,-1.5
+Evan Mobley,mobleev01,202402220CLE,CLE,game,True,34:00,.651,.556,.111,.444,4.7,27.5,17.1,26.5,3.1,4.8,8.5,16.9,142,119,7.4
+Max Strus,strusma01,202402220CLE,CLE,game,True,33:06,.765,.750,.300,.400,14.5,4.0,8.8,30.2,1.6,2.5,25.4,23.2,127,130,3.0
+Isaac Okoro,okorois01,202402220CLE,CLE,game,True,30:14,.900,.889,.444,.111,0.0,8.8,4.8,5.7,0.0,0.0,17.5,18.5,130,134,-2.0
+Caris LeVert,leverca01,202402220CLE,CLE,game,False,27:26,.276,.200,.200,.200,0.0,9.7,5.3,9.9,1.9,3.0,15.5,22.9,62,128,-17.0
+Georges Niang,niangge01,202402220CLE,CLE,game,False,15:37,1.014,1.000,.750,.250,0.0,0.0,0.0,10.3,0.0,0.0,31.1,20.1,115,137,-0.3
+Dean Wade,wadede01,202402220CLE,CLE,game,False,12:42,.750,.750,1.000,.000,0.0,21.0,11.5,0.0,0.0,6.4,0.0,7.7,137,127,1.8
+Sam Merrill,merrisa01,202402220CLE,CLE,game,False,11:42,.820,.750,1.000,.500,13.7,11.4,12.4,47.0,0.0,0.0,0.0,10.2,195,134,12.8
+Craig Porter Jr.,portecr01,202402220CLE,CLE,game,False,3:46,.500,.500,.000,.000,0.0,35.4,19.3,0.0,0.0,0.0,0.0,25.9,97,128,-10.4
+Damian Jones,jonesda03,202402220CLE,CLE,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+Zhaire Smith,smithzh01,202402220CLE,CLE,game,False,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
 D'Angelo Russell,russeda01,202310240DEN,LAL,game,True,36:11,.427,.417,.417,.167,0.0,13.3,6.2,26.0,1.4,0.0,18.9,19.2,91,125,-6.1
 Anthony Davis,davisan02,202310240DEN,LAL,game,True,34:09,.453,.382,.118,.235,3.1,24.6,13.1,17.3,0.0,4.9,9.6,26.6,100,122,-1.7
 Austin Reaves,reaveau01,202310240DEN,LAL,game,True,31:20,.497,.409,.182,.636,13.3,15.3,14.3,17.6,3.2,0.0,12.4,22.4,113,121,1.8
