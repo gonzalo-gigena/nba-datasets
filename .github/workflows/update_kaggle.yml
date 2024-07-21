@@ -6,7 +6,7 @@ name: Update Kaggle Dataset
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 11 * * *"
+    - cron: "0 0 * * 0"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -30,3 +30,7 @@ jobs:
         with:
           id:  "${{ secrets.KAGGLE_USERNAME }}/nba-all-time-stats"
           is_public: true
+          files: |
+            *.csv
+            player_stats
+            boxscores_by_year
